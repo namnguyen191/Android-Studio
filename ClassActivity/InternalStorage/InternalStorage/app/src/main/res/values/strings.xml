@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">File Demo 1</string>
+    <string name="file_name">saved_data.txt</string>
+    <string name="save_to_file">Save</string>
+    <string name="load_from_file">Load</string>
+    <string name="input_label">Input:</string>
+    <string name="output_label">Output:</string>
+    <string name="type_anything">Type Anything</string>
+</resources>

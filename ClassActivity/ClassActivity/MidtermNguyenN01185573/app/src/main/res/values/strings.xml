@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoanCalculator</string>
+    <string name="loan_amount">Loan amount</string>
+    <string name="interest_rate">Interest rate</string>
+    <string name="months">Months</string>
+    <string name="btnCal">Calculate Payments</string>
+    <string name="month_pay">Monthly payment</string>
+    <string name="total_pay">Total payments</string>
+    <string name="note">Note: interest % is in annual form.</string>
+</resources>
